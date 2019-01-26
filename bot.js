@@ -218,7 +218,9 @@ client.on("guildMemberAdd", member => {
 
 	channel.send(member + " Artık " + role + " Rolü İle Aramızda");
 
-	member.send("Aramıza hoş geldin! Artık @üye rolüne sahipsin!")
+	member.send("KılıçAy™/Transport Ailesine Hoşgeldiniz. Yetki almak için;
+1.) İsim/Yaş
+2.) İsim/Nickname/Yaş yazınız. Sonra yetki almak için LÜTFEN BEKLEYİNİZ...")
 
 });
 
