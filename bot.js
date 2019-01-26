@@ -195,17 +195,9 @@ client.on('ready', () => {
 .setAuthor(`Bot Aktif!`)
 .setDescription(`Bot Başlatıldı! `)
 .setFooter(``)
-client.channels.get("537698445545439240").send(girisembed)
+client.channels.get("538547367167918093").send(girisembed)
 });
-client.on('ready', () => {
-    const girisembed = new Discord.RichEmbed()
-.setColor("RANDOM")
-.setAuthor(`Bot Aktif!`)
-.setDescription(`Bot Başlatıldı! `)
-.setFooter(``)
-client.channels.get("537698445545439240").send(girisembed)
-});
-///////////////////////////
+
 client.on("guildMemberAdd", member => {
 
 	var channel = member.guild.channels.find("name", "giriş-çıkış");
