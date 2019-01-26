@@ -219,8 +219,7 @@ client.on("guildMemberAdd", member => {
 	channel.send(member + " Artık " + role + " Rolü İle Aramızda");
 
 	member.send("KılıçAy™/Transport Ailesine Hoşgeldiniz. Yetki almak için;
-1.) İsim/Yaş
-2.) İsim/Nickname/Yaş yazınız. Sonra yetki almak için LÜTFEN BEKLEYİNİZ...")
+1.) İsim/Yaş  2.) İsim/Nickname/Yaş yazınız. Sonra yetki almak için LÜTFEN BEKLEYİNİZ...")
 
 });
 
