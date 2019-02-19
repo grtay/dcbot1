@@ -210,9 +210,10 @@ client.on("guildMemberAdd", member => {
 
 	channel.send(member + " Artık " + role + " Rolü İle Aramızda");
 
-    member.send(":flag_tr: KılıçAy/Transport Ailesine Hoşgeldiniz. :flag_tr:")
+    member.send(":boom: **__RedDawNBeY Sunucusuna HoşGeldiniz__** :boom: ")
+    member.send(":flag_tr: **Kılıç-AyTm/Transport Ailesine HoşGeldiniz.** :flag_tr:")
     member.send(":trophy: Yetki almak için; :reminder_ribbon:")
-    member.send(":pushpin: 1.) İsim/Yaş :white_check_mark:")
+    member.send(":pushpin: **__1.) İsim/Yaş__** :white_check_mark:")
     member.send(":pushpin: 2.) İsim/Nickname/Yaş yazınız. :white_check_mark:")
     member.send(":thumbsup: Sonra yetki almak için :star:LÜTFEN BEKLEYİNİZ...:star::thumbsup:")
 });
